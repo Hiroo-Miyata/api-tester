@@ -1,4 +1,4 @@
-o{
+{
     "name": "laravel-admin-ext/api-tester",
     "description": "Api tester for laravel",
     "type": "library",
